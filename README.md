@@ -23,4 +23,4 @@ Los scripts trabajan sobre el esquema `ejemplo`. El archivo `JOIN.sql` incluye l
 
 ## Relacionado
 
-El diseño de las bases de datos (tablas, claves y restricciones) está en [GBD](https://github.com/ConstructorQP/GBD).
+El diseño de las bases de datos (tablas, claves y restricciones) está en [sql-diseno-bases-datos](https://github.com/ConstructorQP/sql-diseno-bases-datos).
